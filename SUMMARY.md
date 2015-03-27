@@ -5,7 +5,7 @@
 * [week1](./source/week1/openmind.md)
   * [开光总结](./source/week1/openmind.md)
 * [week2](./source/week2/guess the number)
-  * [part2.2](./source/part2/1.md)
+  * [Guess the number](./source/week2/guess the number)
 * [结尾](./source/end.md)
 =======
 # Summary
