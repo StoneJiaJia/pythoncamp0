@@ -4,7 +4,7 @@
 * [缘起](/source/begin.md)
 * [week1](./source/week1/openmind.md)
   * [开光总结](./source/week1/openmind.md)
-* [part2](./source/part2/introduction)
+* [week2](./source/week2/guess the number)
   * [part2.2](./source/part2/1.md)
 * [结尾](./source/end.md)
 =======
