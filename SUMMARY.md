@@ -7,7 +7,7 @@
 * [week2](./source/week2/guess the number)
   * [Guess the number](./source/week2/guess the number)
 * [week3](./source/week3/couresra_week4_noting)
-  * [如何用代码写出球移动的状态](./source/week3/couresra_week4_noting)
+  * [如何用代码写出球移动的状态](./source/week3/couresra_week4_noting.md)
 * [结尾]
 =======
 # Summary
