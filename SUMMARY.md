@@ -2,12 +2,12 @@
 # SUMMARY
 
 * [缘起](/source/begin.md)
-* [week1](./source/week1/openmind.md)
+* [1](./source/week1/openmind.md)
   * [开光总结](./source/week1/openmind.md)
-* [week2](./source/week2/guess the number)
+* [2](./source/week2/guess the number)
   * [Guess the number](./source/week2/guess the number)
-* [week3](./source/week3/couresra_week4_noting)
   * [如何用代码写出球移动的状态](./source/week3/couresra_week4_noting.md)
+  * [python的方程](./source/week5/Designing%20and%20Using%20Functions.md)
 * [结尾]
 =======
 # Summary
