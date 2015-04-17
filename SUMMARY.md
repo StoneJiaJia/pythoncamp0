@@ -8,7 +8,7 @@
   * [Guess the number](./source/week2/guess the number)
   * [如何用代码写出球移动的状态](./source/week3/couresra_week4_noting.md)
   * [python的方程](./source/week5/Designing%20and%20Using%20Functions.md)
-  * [新手怎么写好python方程](./source/week5/Designing%20New%20Functions:%20A%20Recipe.md)
+  * [新手怎么写好python方程](./source/week5/Desigining.md)
 * [结尾]
 =======
 # Summary
