@@ -9,6 +9,7 @@
   * [如何用代码写出球移动的状态](./source/week3/couresra_week4_noting.md)
   * [python的方程](./source/week5/Usingpython.md)
   * [新手怎么写好python方程](./source/week5/Desigining.md)
+  * [4月25日线下碰面总结](./source/week5/425.md)
 * [结尾]
 =======
 # Summary
